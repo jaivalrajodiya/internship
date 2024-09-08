@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807487263506",
+    "project_id": "internshipjaival",
+    "storage_bucket": "internshipjaival.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807487263506:android:86f00aa2d73b7ca91159cb",
+        "android_client_info": {
+          "package_name": "com.example.internship_jaival"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxatvaRcyjrF6kGQHRW1DXZv48u8mUyjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

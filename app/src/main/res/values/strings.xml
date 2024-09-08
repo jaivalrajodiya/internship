@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">internship_jaival</string>
+    <string name="openDrawer">open navigation drawer</string>
+    <string name="closeDrawer">close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">By continuing you agree to Pinterest Terms of Service  \n and acknowledge that You ve  read our Privacy Policy. \n Notice at Collaction</string>
+    <string name="text1">To help keep Pinterest safe, we now require your \n date of birth. Your date of birth also helps us \n provide more personalised recommendations and \n relevant ads. We dont share this information and it \n wont be visible on your profile.</string>
+</resources>
